@@ -11,3 +11,6 @@ gem "telegram_bot", "~> 0.0.7"
 
 # Added at 2018-02-21 00:51:05 +0800 by zichuange:
 gem "excon", "~> 0.60.0"
+
+# Added at 2018-02-26 18:34:02 +0800 by zichuange:
+gem "daemons", "~> 1.2"
